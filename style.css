@@ -1,0 +1,10 @@
+/* место для вашего кода */
+.header {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: normal;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
